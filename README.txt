@@ -1,13 +1,14 @@
-Quanser HIL SDK 2022 (4.2.3778)
+Quanser HIL SDK 2023 (4.3.4140)
 -----------------------------------
 
 The Quanser HIL SDK for the x86-based 64-bit Linux operating system. Testing was done on an out-of-the-box 64-bit Ubuntu PC. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards).
 
 The Quanser HIL SDK for the x86-based 64-bit Linux operating system provides access to the following devices:
+- Quanser Qube-Servo 3
 - Quanser QUBE Servo 2 - USB 
 - Quanser Q2-USB (normal mode only)
-- Quanser AERO
 - Quanser Aero 2
+- Quanser AERO
 - Quanser QArm
 
 To install the Quanser HIL SDK on x86-based 64-bit Linux:
@@ -36,4 +37,4 @@ To uninstall the Quanser HIL SDK on x86-based 64-bit Linux:
 THIS IS BETA SOFTWARE. IF YOU ARE USING THIS SOFTWARE, WE WOULD APPRECIATE ANY FEEDBACK.
 
 
-The full version of this product is 4.2.3778. The build date was 2022/4/29.
+The full version of this product is 4.3.4140. The build date was 2023/4/25.
