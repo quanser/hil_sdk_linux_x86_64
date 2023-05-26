@@ -6,7 +6,6 @@ The Quanser HIL SDK for the x86-based 64-bit Linux operating system. Testing was
 The Quanser HIL SDK for the x86-based 64-bit Linux operating system provides access to the following devices:
 - Quanser Qube-Servo 3
 - Quanser QUBE Servo 2 - USB 
-- Quanser Aero 2
 - Quanser AERO
 - Quanser QArm
 
