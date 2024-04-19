@@ -1,6 +1,8 @@
-[DEPRECATED] Quanser HIL SDK 2023 (4.3.4140)
---------------------------------------------
+# THIS REPOSITORY IS NO LONGER MAINTAINED
+Please refer to the [Quanser SDK for Linux](https://github.com/quanser/quanser_sdk_linux) repository, as a replacement, for Quanser's latest and up-to-date functionality under various Linux operating systems. 
 
+
+# [DEPRECATED] 
 The Quanser HIL SDK for the x86-based 64-bit Linux operating system. Testing was done on an out-of-the-box 64-bit Ubuntu PC. The Quanser Hardware-in-the-loop (HIL) SDK, also known as the Quanser HIL SDK, provides device drivers and a set of C functions (API) for accessing Quanser hardware (devices and data acquisition cards).
 
 The Quanser HIL SDK for the x86-based 64-bit Linux operating system provides access to the following devices:
